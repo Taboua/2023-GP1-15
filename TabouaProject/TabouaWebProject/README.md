@@ -7,4 +7,6 @@ Taboua is a Waste Management System designed to revolutionize waste disposal and
 ## Launching Instructions
 To get started with Taboua:
 1. Clone this repository to your local machine.
-2. Using Vite install the necessary dependencies for the web application.
+2. Using Vite install the necessary dependencies for the web applications:
+  -npm install
+  -npm run dev
