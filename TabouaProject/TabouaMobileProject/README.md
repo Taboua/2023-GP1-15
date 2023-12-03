@@ -1,16 +1,11 @@
-# taboua_app
 
-A new Flutter project.
+# 2023-GP1-15
+# Taboua - Waste Management System Mobile Application
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Introduction
+Taboua is a Waste Management System designed to revolutionize waste disposal and recycling practices through technology integration. This comprehensive system comprises both a mobile-based app and a web-based platform, catering to individual users and the Waste Management Authority.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
