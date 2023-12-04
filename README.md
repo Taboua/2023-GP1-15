@@ -16,19 +16,18 @@ The goal of Taboua is to enhance waste management practices, improve environment
 
 
 
-## Launching Instructions for Taboua mobile app
+## Launching Instructions for Taboua Mobile App
 To get started with Taboua:
 1. Clone this repository to your local machine.
-2. Using Flutter install the necessary dependencies for the mobile applications:
-  -Install Dependencies: flutter pub get
-  -Open iOS Simulator 
-  -Run the App: flutter run
+2. Use Flutter to install the necessary dependencies for the mobile application:
+   - Install Dependencies: `flutter pub get`
+   - Open iOS Simulator.
+   - Run the App: `flutter run`
 
-
-## Launching Instructions for Taboua web app
-To get started with Taboua:
+## Launching Instructions for Taboua Web App
+To begin with Taboua:
 1. Clone this repository to your local machine.
-2. Using Vite install the necessary dependencies for the web applications:
-  -npm install
-  -npm run dev
+2. Use Vite to install the necessary dependencies for the web application:
+   - Run `npm install`
+   - Execute `npm run dev`
 
