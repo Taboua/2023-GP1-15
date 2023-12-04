@@ -11,5 +11,3 @@ To begin with Taboua:
 2. Use Vite to install the necessary dependencies for the web application:
    - Run `npm install`
    - Execute `npm run dev`
-
-
