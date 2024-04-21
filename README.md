@@ -1,4 +1,4 @@
-# 2023-GP1-15
+# 2023-GP2-15
 # Taboua - Waste Management System
 ![تبوأ](https://github.com/Taboua/2023-GP1-15/assets/144554229/a2b73e3f-e819-4f8e-bb32-b642720c284e)
 
@@ -12,7 +12,7 @@ The goal of Taboua is to enhance waste management practices, improve environment
 - Mobile Application: Developed using Flutter for iOS devices.
 - Web Application: Developed using React.
 - Database: Firebase Firestore for real-time data management.
-- Maps Integration: Google Maps API and Leaflet.js for interactive mapping.
+- Maps Integration: Google Maps API for interactive mapping.
 
 
 
