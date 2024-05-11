@@ -1,0 +1,6 @@
+fastapi==0.68.0
+tensorflow==2.15.0.post1
+numpy==1.23.5
+Pillow==10.2.0
+uvicorn==0.15.0  # For running the FastAPI app as a server
+requests==2.26.0
